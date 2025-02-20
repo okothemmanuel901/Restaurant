@@ -28,13 +28,13 @@
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
                             </v-card-text>
                         </v-card>
-                        <v-card color="green">
+                        <v-card color="white">
                             <v-card-item>
                             <v-card-title>Promotions</v-card-title>
 
                             <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                             </v-card-item>
-                            <v-img height="200px" src="https://www.freepik.com/free-psd/modern-banner-breakfast-restaurant_6008872.htm#fromView=search&page=1&position=2&uuid=cc92847e-ddf7-4714-a13a-4ba283d88b85&query=promotions+images+for+a+restaurant" cover ></v-img>
+                            <v-img height="200px" src="https://img.freepik.com/free-vector/marketing-promotion-concept-illustration_114360-23164.jpg" cover ></v-img>
 
                             <v-card-text>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
@@ -46,25 +46,25 @@
 
                 <v-col cols="12" md="4">
                     <v-card>
-                    <v-card color="dark blue">
+                    <v-card color="#2E7D32">
                     <v-card-item>
                     <v-card-title>Upcoming Events</v-card-title>
 
                     <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                     </v-card-item>
-                    <v-img height="200px" src="https://www.freepik.com/free-photo/modern-restaurant-with-various-places_7873940.htm#fromView=search&page=1&position=41&uuid=5369c31c-56c7-47e7-a1bf-d2f398c63a9c&query=Upcoming+events+images+for+a+restaurant" cover ></v-img>
+                    <v-img height="200px" src="https://img.freepik.com/premium-photo/table-dining-set-outside-hotel-restaurant_30478-1756.jpg?uid=R188095139&ga=GA1.1.833928439.1739952656&semt=ais_hybrid" cover ></v-img>
 
                     <v-card-text>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
                     </v-card-text>
                     </v-card>
-                    <v-card color="dark blue">
+                    <v-card color="blue">
                     <v-card-item>
                     <v-card-title>Upcoming Events</v-card-title>
 
                     <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                     </v-card-item>
-                    <v-img height="200px" src="https://www.freepik.com/free-psd/square-post-template-japanese-restaurant_4791772.htm#fromView=search&page=1&position=36&uuid=5369c31c-56c7-47e7-a1bf-d2f398c63a9c&query=Upcoming+events+images+for+a+restaurant" cover ></v-img>
+                    <v-img height="200px" src="https://img.freepik.com/free-photo/long-table-with-luxury-plates-decorated-with-colorful-flowers-candles_181624-24389.jpg?uid=R188095139&ga=GA1.1.833928439.1739952656&semt=ais_hybrid" cover ></v-img>
 
                     <v-card-text>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
@@ -76,25 +76,25 @@
 
                 <v-col cols="12" md="4">
                     <v-card>
-                        <v-card color="green">
+                        <v-card color="white">
                     <v-card-item>
                     <v-card-title>Promotions</v-card-title>
 
                     <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                     </v-card-item>
-                    <v-img height="200px" src="https://www.freepik.com/free-psd/mexican-restaurant-weekend-offer-banner_7375042.htm#fromView=search&page=1&position=6&uuid=cc92847e-ddf7-4714-a13a-4ba283d88b85&query=promotions+images+for+a+restaurant" cover ></v-img>
+                    <v-img height="200px" src="https://t3.ftcdn.net/jpg/02/93/75/70/360_F_293757039_pbjpnr2OocJh18NZdMsebo8eZkaOMmx1.jpg" cover ></v-img>
 
                     <v-card-text>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
                     </v-card-text>
                         </v-card>
-                        <v-card color="green">
+                        <v-card color="white">
                     <v-card-item>
                     <v-card-title>Promotions</v-card-title>
 
                     <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                     </v-card-item>
-                    <v-img height="200px" src="https://www.freepik.com/free-psd/delicious-thai-food-template_383292387.htm#fromView=search&page=1&position=9&uuid=cc92847e-ddf7-4714-a13a-4ba283d88b85&query=promotions+images+for+a+restaurant" cover ></v-img>
+                    <v-img height="200px" src="https://i0.wp.com/epiinc.com/wp-content/uploads/2021/10/ConsumerPromoPlan_Pic-2.png?fit=1020%2C663&ssl=1" cover ></v-img>
 
                     <v-card-text>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
@@ -106,7 +106,9 @@
             </v-row>
         </v-container>
         </v-card>
-    </v-container> <v-container>
+    </v-container>
+
+     <v-container>
         <v-card class="mx-auto" elevation="24">
             <v-container>
             <v-row>
@@ -124,13 +126,13 @@
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
                             </v-card-text>
                         </v-card>
-                        <v-card color="green">
+                        <v-card color="white">
                             <v-card-item>
                             <v-card-title>Promotions</v-card-title>
 
                             <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                             </v-card-item>
-                            <v-img height="200px" src="https://www.freepik.com/free-psd/flat-design-burger-template_30114590.htm#fromView=search&page=1&position=12&uuid=cc92847e-ddf7-4714-a13a-4ba283d88b85&query=promotions+images+for+a+restaurant" cover ></v-img>
+                            <v-img height="200px" src="https://img.freepik.com/free-vector/promotions-sales-stickers_23-2147500481.jpg?uid=R188095139&ga=GA1.1.833928439.1739952656&semt=ais_hybrid" cover ></v-img>
 
                             <v-card-text>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
@@ -142,25 +144,25 @@
 
                 <v-col cols="12" md="4">
                     <v-card>
-                    <v-card color="dark blue">
+                    <v-card color="blue">
                     <v-card-item>
                     <v-card-title>Upcoming Events</v-card-title>
 
                     <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                     </v-card-item>
-                    <v-img height="200px" src="https://www.freepik.com/free-psd/hand-drawn-food-festival-facebook-template_34971372.htm#fromView=search&page=1&position=33&uuid=5369c31c-56c7-47e7-a1bf-d2f398c63a9c&query=Upcoming+events+images+for+a+restaurant" cover ></v-img>
+                    <v-img height="200px" src="https://img.freepik.com/free-photo/elegant-wedding-dishes_1157-17845.jpg?uid=R188095139&ga=GA1.1.833928439.1739952656&semt=ais_hybrid" cover ></v-img>
 
                     <v-card-text>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
                     </v-card-text>
                     </v-card>
-                    <v-card color="dark blue">
+                    <v-card color="blue">
                     <v-card-item>
                     <v-card-title>Upcoming Events</v-card-title>
 
                     <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                     </v-card-item>
-                    <v-img height="200px" src="https://www.freepik.com/free-psd/modern-squared-flyer-template-breakfast-restaurant_6008876.htm#fromView=search&page=1&position=26&uuid=5369c31c-56c7-47e7-a1bf-d2f398c63a9c&query=Upcoming+events+images+for+a+restaurant" cover ></v-img>
+                    <v-img height="200px" src="https://img.freepik.com/free-photo/couples-celebrating-birthday_23-2149890970.jpg?uid=R188095139&ga=GA1.1.833928439.1739952656&semt=ais_hybrid" cover ></v-img>
 
                     <v-card-text>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
@@ -172,25 +174,25 @@
 
                 <v-col cols="12" md="4">
                     <v-card>
-                        <v-card color="green">
+                        <v-card color="white">
                     <v-card-item>
                     <v-card-title>Promotions</v-card-title>
 
                     <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                     </v-card-item>
-                    <v-img height="200px" src="https://www.freepik.com/free-psd/food-menu-restaurant-web-banner-template_11639265.htm#fromView=search&page=1&position=25&uuid=cc92847e-ddf7-4714-a13a-4ba283d88b85&query=promotions+images+for+a+restaurant" cover ></v-img>
+                    <v-img height="200px" src="https://img.freepik.com/free-vector/promotions-sales-stickers_23-2147500481.jpg?uid=R188095139&ga=GA1.1.833928439.1739952656&semt=ais_hybrid" cover ></v-img>
 
                     <v-card-text>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
                     </v-card-text>
                         </v-card>
-                        <v-card color="green">
+                        <v-card color="white">
                     <v-card-item>
                     <v-card-title>Promotions</v-card-title>
 
                     <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                     </v-card-item>
-                    <v-img height="200px" src="https://www.freepik.com/free-psd/flyer-template-with-american-food_7144786.htm#fromView=search&page=1&position=38&uuid=cc92847e-ddf7-4714-a13a-4ba283d88b85&query=promotions+images+for+a+restaurant" cover ></v-img>
+                    <v-img height="200px" src="https://img.freepik.com/free-vector/25-professional-vector-designs-up-70-off-bundle-perfect-sale-promotions_1142-22347.jpg?uid=R188095139&ga=GA1.1.833928439.1739952656&semt=ais_hybrid" cover ></v-img>
 
                     <v-card-text>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
@@ -203,8 +205,48 @@
         </v-container>
         </v-card>
     </v-container>
+
+ <v-container>
+        <v-card class="mx-auto" elevation="24" color = "purple">
+            <v-container>
+                <v-row >
+                    <v-col cols="12" md="4">
+                        <v-card>
+                            <v-card-item>
+                                <v-card-title>Contact Us</v-card-title>
+                            </v-card-item>
+                            <v-card-text><v-icon icon="mdi-phone" /> 0722123456</v-card-text>
+                            <v-card-text><v-icon icon="mdi-email" ></v-icon> myrestaurant@example.com</v-card-text>
+                            <v-card-text>Operating Hours: 10.00am - 10.00pm</v-card-text>
+
+                        </v-card>
+                    </v-col>
+                        <v-col cols="12" md="4">
+                        <v-card>
+                            <v-card-item>
+                            <v-card-title>Find us on our socials</v-card-title>
+                            </v-card-item>
+                            <v-card-text><v-icon icon="mdi-instagram" /> myrestaurant</v-card-text>
+                            <v-card-text><v-icon icon="mdi-twitter" /> myrestaurant</v-card-text>
+                            <v-card-text><v-icon icon="mdi-facebook" /> myrestaurant</v-card-text>
+                        </v-card>
+                    </v-col>
+                    <v-col cols="12" md="4">
+                        <v-card>
+                            <v-card-item>
+                            <v-card-title>Our Restaurant Locations</v-card-title>
+                            </v-card-item>
+                            <v-card-text>Madaraka</v-card-text>
+                            <v-card-text>CBD</v-card-text>
+                            <v-card-text>Langata</v-card-text>
+                        </v-card>
+                    </v-col>
+                </v-row>
+            </v-container>
+        </v-card>
+    </v-container>
 </template>
 
 <script setup>
-    
+
 </script>
